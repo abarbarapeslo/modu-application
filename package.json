@@ -1,0 +1,27 @@
+{
+  "name": "modu-application",
+  "version": "1.0.0",
+  "description": "Modu Economic AI Agentic",
+  "homepage": "https://github.com/abarbarapeslo/modu-application#readme",
+  "bugs": {
+    "url": "https://github.com/abarbarapeslo/modu-application/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abarbarapeslo/modu-application.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.2.10"
+  },
+  "devDependencies": {}
+}
