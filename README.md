@@ -1,15 +1,13 @@
-# MODO Application
+# MODO
 
 **Cognitive Digital Twin Platform** — Attention, Effort and Reality made visible.
 
 Monorepo unificado:
 
 ```
-modo-application/
+modo/
 ├── backend/     Express + TypeScript + Prisma (port 4000)
 ├── frontend/    React + Vite + Tailwind (port 5173)
-├── agents/      Regras estratégicas dos agents (markdown)
-└── skills/      Skills operacionais da IA (markdown)
 ```
 
 ## Quick Start
